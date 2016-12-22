@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bonding App</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="signup_address">Address</string>
+    <string name="ProfileManager">Who am I?</string>
+    <string name="signup_cofirmpassword">Confirm Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_field_required">Field Required</string>
+    <string name="title_activity_login">Login</string>
+    <string name="Email_phone">Email/Phone Number</string>
+    <string name="email">E-mail</string>
+    <string name="Password">Password</string>
+    <string name="oldpassword">Old Password</string>
+    <string name="newpassword">New Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="phone">Phone</string>
+    <string name="forgot">Please enter your registered email ID</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>

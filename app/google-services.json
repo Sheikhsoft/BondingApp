@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "837289426252",
+    "firebase_url": "https://bondingapp-51f95.firebaseio.com",
+    "project_id": "bondingapp-51f95",
+    "storage_bucket": "bondingapp-51f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837289426252:android:0a1c7966d48542cc",
+        "android_client_info": {
+          "package_name": "com.example.anox.bondingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837289426252-5sjjcgck4neb0skbgp0cd7b92vdvdakt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anox.bondingapp",
+            "certificate_hash": "396E005A92A2F410638AE36741139D153C0FABEC"
+          }
+        },
+        {
+          "client_id": "837289426252-davr0dug7kj8pcl2vq12dslqcjkngj1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{
+        "current_key":"AIzaSyBcnOE0XnLDqwIn1z947tmb0pn4KHuqIa8"
+      }
+      ],
+
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837289426252-davr0dug7kj8pcl2vq12dslqcjkngj1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

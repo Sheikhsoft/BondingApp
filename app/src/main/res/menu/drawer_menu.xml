@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="My Profile"
+          android:id="@+id/nav_item_myprofile"
+          android:icon="@drawable/profile"/>
+    <item android:title="Mailbox"
+        android:id="@+id/nav_item_mailbox"
+        android:icon="@drawable/ic_mail"/>
+
+    <item android:title="Shortlisted Profiles"
+        android:id="@+id/nav_item_shortlisted"
+        android:icon="@mipmap/ic_shortlist"/>
+
+
+            <item android:title="Edit Profile"
+                android:id="@+id/nav_item_edit"
+                android:icon="@drawable/ic_editprofile"/>
+            <item
+                android:title="Upgrade Account"
+                android:icon="@drawable/profile"/>
+
+    <group android:id="@+id/group_settings_id">
+
+        <item android:title="Settings"
+              android:icon="@drawable/settings"/>
+        <item android:title="Help"
+             android:icon="@drawable/help"/>
+        <item android:title="Feedback"
+              android:id="@+id/nav_item_feedback"/>
+        <item
+            android:title="Logout"
+            android:icon="@drawable/ic_action_logout"
+            android:id="@+id/nav_item_logout"/>
+    </group>
+
+
+</menu>
